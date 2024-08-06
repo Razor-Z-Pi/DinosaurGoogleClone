@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DinoCloneC++", "DinoCloneC++.vcxproj", "{AE6AAEFF-EB0F-4B59-AB2C-E3AE03AF3DF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE6AAEFF-EB0F-4B59-AB2C-E3AE03AF3DF1}.Debug|x64.ActiveCfg = Debug|x64
+		{AE6AAEFF-EB0F-4B59-AB2C-E3AE03AF3DF1}.Debug|x64.Build.0 = Debug|x64
+		{AE6AAEFF-EB0F-4B59-AB2C-E3AE03AF3DF1}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE6AAEFF-EB0F-4B59-AB2C-E3AE03AF3DF1}.Debug|x86.Build.0 = Debug|Win32
+		{AE6AAEFF-EB0F-4B59-AB2C-E3AE03AF3DF1}.Release|x64.ActiveCfg = Release|x64
+		{AE6AAEFF-EB0F-4B59-AB2C-E3AE03AF3DF1}.Release|x64.Build.0 = Release|x64
+		{AE6AAEFF-EB0F-4B59-AB2C-E3AE03AF3DF1}.Release|x86.ActiveCfg = Release|Win32
+		{AE6AAEFF-EB0F-4B59-AB2C-E3AE03AF3DF1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F4CB65-FFB3-4E88-B5A1-4EA11D457ED5}
+	EndGlobalSection
+EndGlobal
